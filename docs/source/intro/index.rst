@@ -52,6 +52,9 @@ et d'un exemple à éviter.
 * :doc:`Le Guide <../guide/index>` — l'ensemble des directives, dans l'ordre du
   mémoire (préliminaires → résumé → introduction → état de l'art → méthodologie
   → résultats → style → mise en page → usage de l'IA).
+* :doc:`Check-list <../checklist/index>` — une check-list interactive à
+  compléter avant de soumettre votre mémoire : chaque point non coché vous
+  renvoie à la section du guide correspondante.
 
 .. tip::
 

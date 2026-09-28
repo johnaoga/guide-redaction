@@ -2,10 +2,10 @@
 Guide de Rédaction Académique et Scientifique
 #########################################################
 
-Bienvenue sur le site de référence pour la **rédaction des mémoires** (Licence et
-Master) à l'IFRI/UAC (Bénin). Ce guide rassemble les directives méthodologiques et
+Bienvenue sur ce guide de **rédaction des mémoires** (Licence et
+Master). Il rassemble les directives méthodologiques et
 stylistiques attendues pour un mémoire de fin d'études — de la structure générale
-du document jusqu'aux détails de mise en forme.
+du document jusqu'aux détails de mise en forme (mais bref).
 
 .. admonition:: À qui s'adresse ce guide ?
    :class: important
@@ -25,6 +25,12 @@ du document jusqu'aux détails de mise en forme.
    :caption: Le Guide
 
    guide/index
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Check-list
+
+   checklist/index
 
 
 .. Indices and tables

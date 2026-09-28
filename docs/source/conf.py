@@ -39,6 +39,11 @@ myst_enable_extensions = [
 
 html_theme = 'sphinx_rtd_theme'
 
+# -- Custom static files (interactive check-list)
+html_static_path = ['_static']
+html_css_files = ['quiz.css']
+html_js_files = ['checklist.js']
+
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
 

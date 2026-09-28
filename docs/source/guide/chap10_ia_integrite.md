@@ -9,4 +9,4 @@ L'utilisation d'outils de génération de texte (LLMs) doit rester un appui mét
 
 ---
 
-*Fin du guide méthodologique — Document rédigé conformément aux directives de rédaction et de présentation des résultats scientifiques.*
+> Si vous avez lu jusqu'ici c'est super bien. Vous devez à présent signer et remplir [ce formulaire](https://forms.gle/TtNLyc4pNSYaANTX9) qui justifie votre engagement envers l'intégrité académique dans le respect de ma politique IA.
