@@ -3,7 +3,9 @@
 ## 8.1. Le Bannissement du Vocabulaire « Bling-Bling »
 L'écriture scientifique se caractérise par la **retenue** et l'**objectivité**. Les adjectifs promotionnels ou hyperboliques doivent être systématiquement remplacés par des données chiffrées et neutres.
 
-| ❌ Termes à proscrire ("Bling-Bling") | ✅ Reformulation scientifique mesurable |
+Voici quelques exemples de termes à proscrire et de reformulations scientifiques mesurables :
+
+| Termes à proscrire ("Bling-Bling") | Reformulation scientifique mesurable |
 | :--- | :--- |
 | *« Des résultats extrêmement convaincants »* | *« Une précision de 94,2 %, soit un gain de 3,1 points. »* |
 | *« Une méthode révolutionnaire et très puissante »* | *« Une approche réduisant la complexité temporelle de $O(N^2)$ à $O(N \log N)$. »* |

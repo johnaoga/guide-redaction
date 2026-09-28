@@ -53,6 +53,10 @@ et d'un exemple à éviter.
   mémoire (préliminaires → résumé → introduction → état de l'art → méthodologie
   → résultats → style → mise en page → usage de l'IA).
 
+.. tip::
+
+   Ce guide n'est pas une fin en soi, considérer ça juste comme un moyen d'être sûre de bien commencer. Pour avoir un document excellent, il faudra prendra aussi le temps de lire et relire plusieurs fois, écrire et réécrire, remettre les idées en cause, remettre le flux d'idée en cause, penser aux lecteurs (Les IAs ne vous aideront pas beaucoup ici ;-) )
+
 
 Contact et communication
 =======================================

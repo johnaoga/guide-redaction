@@ -1,6 +1,8 @@
 # Guide de Rédaction
 
-Guide méthodologique et stylistique de rédaction de mémoires (Licence et Master) — IFRI/UAC Benin (in French).
+Guide méthodologique et stylistique de rédaction de mémoires (Licence et Master). 
+
+> Originellement à l'endroit des étudiants IFRI/UAC Benin (in French), il est utilisable si vous ne savez pas comment commencer votre rédaction après vous pouvez adapter totalement
 
 📖 **Documentation**: [View on GitHub Pages](https://johnaoga.github.io/guide-redaction/)
 
